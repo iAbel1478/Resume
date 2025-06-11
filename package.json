@@ -1,0 +1,12 @@
+{
+  "name": "resume-viewer",
+  "version": "1.0.0",
+  "description": "A simple resume viewer website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
